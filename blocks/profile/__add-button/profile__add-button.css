@@ -9,11 +9,10 @@
     margin-left: 244px;
 
     padding: 0;
-    outline: none;                      
+    outline: none;
     background-color: transparent;
     cursor: pointer;
     transition: opacity 0.2s ease-in-out;
-
 }
 
 .profile__add-button:hover {

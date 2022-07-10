@@ -4,9 +4,9 @@
     height: 19px;
     padding: 0;
     margin: 0;
-    outline: none;       
-    border: 0;                              
-    background-color: transparent;   /* стандартный ресеттер кнопки (строки 6-10) */
+    outline: none;
+    border: 0;
+    background-color: transparent;/*стандартный ресеттер кнопки (строки 6-10)*/
     cursor: pointer;
     transition: opacity 0.2s ease-in-out;
     
