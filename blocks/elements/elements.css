@@ -1,0 +1,11 @@
+.elements {
+    max-width: 880px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 282px);
+    justify-content: center;
+    row-gap: 20px;
+    column-gap: 17px;
+    margin: 0 auto;
+
+}
+

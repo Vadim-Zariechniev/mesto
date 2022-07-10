@@ -1,0 +1,16 @@
+.element__name {
+    display: flex;
+    flex-direction: row;
+    max-width: 200px;
+    color: #000000;
+    font-family: Inter, sans-serif;
+    font-size: 24px;
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+    
+    text-overflow: ellipsis;     /* добавить троеточие */
+    white-space: nowrap;         /* запрет переноса строк */
+    overflow: hidden;            /* скрыть выступающую часть (необходимо для работы правила text-overflow: ellipsis) */
+}
