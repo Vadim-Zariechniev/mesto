@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: repeat(2, minmax(min-content, max-content));  /* повтор: по 2 ячейки, размер: от минимального размера контента занимающего ячейку, до максимального размера контента занимающего ячейку, размер контента заранее неизвестен*/
     color: #FFFFFF;
-    font-family: Inter, sans-serif;
+    font-family: Inter, Arial, sans-serif;
     margin-left: 30px;
 
     
