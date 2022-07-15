@@ -6,4 +6,4 @@
 
 Ссылка:
 
-https://Vadim-Zariechniev.github.io/mesto/
+https://vadim-zariechniev.github.io/mesto/
