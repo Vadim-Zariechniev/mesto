@@ -1,24 +1,19 @@
 .popup__input-profile-name {
-    height: 27px;
-    width: 358px;
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
-    font-size: 14px;
-    font-family: Inter, Arial, sans-serif;
-    font-weight: 400;
-    color: #000;
+
+
+
+
     margin-top: 54px;
     margin-right: auto;
     margin-bottom: 30px;
     margin-left: auto;
     padding-bottom: 12px;
-    box-sizing: border-box;
+
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 525px) {
     .popup__input-profile-name {
         width: 238px;
-        margin-bottom: 30px;
         margin-top: 75px;
     }
 }

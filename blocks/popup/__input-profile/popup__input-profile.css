@@ -1,0 +1,16 @@
+.popup__input-profile {
+    height: 27px;
+    width: 358px;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    font-size: 14px;
+    font-family: Inter, Arial, sans-serif;
+    font-weight: 400;
+    color: #000;
+
+
+
+
+
+    box-sizing: border-box;
+}

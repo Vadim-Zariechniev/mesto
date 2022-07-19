@@ -9,3 +9,12 @@
 
 }
 
+
+
+@media screen and (max-width: 914px) {
+    .elements {
+        margin-left: 17px;
+        margin-right: 17px;
+    }
+}
+

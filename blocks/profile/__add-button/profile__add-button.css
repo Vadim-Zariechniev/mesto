@@ -6,7 +6,7 @@
     width: 150px;
     border: 2px solid #ffffff;
     border-radius: 2px;
-    margin-left: 244px;
+    margin-left: auto;
 
     padding: 0;
     outline: none;
@@ -16,7 +16,7 @@
 }
 
 .profile__add-button:hover {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 

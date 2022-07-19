@@ -1,6 +1,5 @@
 .element__name {
-    display: flex;
-    flex-direction: row;
+    
     max-width: 200px;
     color: #000000;
     font-family: Inter, Arial, sans-serif;
