@@ -6,22 +6,17 @@ const popupProfileSaveButton = document.querySelector(".popup__button-save");
 
 const formElement = document.querySelector(".popup__profile-edit");
 
-let inputName = document.querySelector(".popup__input-profile-name");
-let inputAbout = document.querySelector(".popup__input-profile-about");
+let inputName = document.querySelector("#name");
+let inputAbout = document.querySelector("#about");
 
 let profileName = document.querySelector(".profile__name");
 let profileAbout = document.querySelector(".profile__about");
-
-
-
-
 
 function openPopupEditProfile() {
   inputName.value = profileName.textContent;
   inputAbout.value = profileAbout.textContent;
   popup.classList.add("popup_opened");
 }
-
 
 function closePopup() {
     popup.classList.remove("popup_opened");

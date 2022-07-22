@@ -7,10 +7,37 @@
     font-family: Inter, Arial, sans-serif;
     font-weight: 400;
     color: #000;
-
-
-
-
-
     box-sizing: border-box;
 }
+
+#about {
+    margin-bottom: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-bottom: 12px;
+}
+
+@media screen and (max-width: 525px) {
+    #about {
+        width: 238px;
+        margin-bottom: 45px;
+    }
+}
+
+#name {
+    margin-top: 54px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+    padding-bottom: 12px;
+}
+
+
+@media screen and (max-width: 525px) {
+    #name {
+        width: 238px;
+        margin-top: 75px;
+    }
+}
+

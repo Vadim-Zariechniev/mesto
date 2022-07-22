@@ -1,19 +1,2 @@
-.popup__input-profile-name {
 
 
-
-
-    margin-top: 54px;
-    margin-right: auto;
-    margin-bottom: 30px;
-    margin-left: auto;
-    padding-bottom: 12px;
-
-}
-
-@media screen and (max-width: 525px) {
-    .popup__input-profile-name {
-        width: 238px;
-        margin-top: 75px;
-    }
-}

@@ -85,10 +85,10 @@
         <div class="popup"> 
             <div class="popup__container">
                 <button class="popup__close-button" type="button"></button>
-                <form class="popup__profile-edit" name="personaldata" method="POST">
+                <form class="popup__profile-edit" name="person" method="POST">
                     <h2 class="popup__title">Редактировать профиль</h2>
-                    <input class="popup__input-profile popup__input-profile-name" type="text" name="name" placeholder="Имя профиля" required minlength="1" maxlength="20">
-                    <input class=" popup__input-profile popup__input-profile-about" type="text" name="about" placeholder="Описание" required minlength="1" maxlength="50">
+                    <input class="popup__input-profile" id="name"  type="text" name="name" placeholder="Имя профиля">
+                    <input class="popup__input-profile" id="about"  type="text" name="about" placeholder="Описание">
                     <button class="popup__save-button" type="submit">Сохранить</button>
                 </form>
             </div>
