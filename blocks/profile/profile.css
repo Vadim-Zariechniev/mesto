@@ -8,17 +8,19 @@
 }
 
 
-@media screen and (max-width: 900px) and (min-width: 681px) {
+
+@media screen and (max-width: 900px) {
     .profile {
         
-        margin-left: 50px;
+        
+        max-width: 680px;
     }
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 720px) {
     .profile {
         flex-direction: column;
         margin-bottom: 0;
-        margin-top: 0px;
+        margin-top: 0;
     }
 }
